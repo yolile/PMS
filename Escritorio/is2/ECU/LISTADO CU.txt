@@ -1,0 +1,40 @@
+Listado de Casos de Uso
+•	Creación de usuarios
+o	Asignación de Roles
+•	Modificación de usuarios
+•	Eliminación de Usuarios
+•	Creación de Roles
+•	Modificación de Roles
+•	Eliminación de Roles
+•	Creación de Proyectos
+o	Asignación de Fases a un Proyecto
+o	Asignación de usuarios a un Proyecto
+•	Creación de Fases
+o	Asignación de Tipos de Ítem a una Fase
+•	Modificación de Fases
+•	Creación de Tipos de Ítems
+o	Asignación de Ítems a Tipos de Ítems
+o	Asignación de Tipos de Atributos a Tipos de Ítem
+•	Modificación de Tipos de Ítems
+•	Eliminación de Tipos de Ítems
+•	Creación de Tipo de Atributo
+•	Modificación de Tipo de Atributo
+•	Eliminación de Tipo de Atributo
+•	Creación de Ítems
+•	Modificación de Ítems
+o	Realizar reversiones
+•	Eliminación de Ítems
+•	Creación de Líneas Bases
+•	Creación de Relaciones entre Ítems
+•	Cálculo del impacto en la modificación de un Ítem
+•	Generación de Informes de Ítems y Fases
+
+
+
+cambio de estado de Ítem
+
+Consulta de Ítems
+
+consulta linea base
+
+listado de usuarios con sus roles?

@@ -1,0 +1,39 @@
+DANI
+
+1Creación de usuarios
+	Asignación de Roles
+2Modificación de usuarios
+3Eliminación de Usuarios
+4Creación de Roles
+5Modificación de Roles
+6Eliminación de Roles
+7Creación de Proyectos
+	Asignación de Fases a un Proyecto
+	Asignación de usuarios a un Proyecto
+8Creación de Fases
+	Asignación de Tipos de Ítem a una Fase
+9Modificación de Fases
+
+YOHANNA
+
+10Creación de Tipos de Ítems
+Asignación de Ítems a Tipos de Ítems
+Asignación de Tipos de Atributos a Tipos de Ítem
+11Modificación de Tipos de Ítems
+12Eliminación de Tipos de Ítems
+13Creación de Tipo de Atributo
+14Modificación de Tipo de Atributo
+15Eliminación de Tipo de Atributo
+16Creación de Ítems
+17Modificación de Ítems
+Realizar reversiones
+18Eliminación de Ítems
+
+
+OTROS
+
+19Creación de Líneas Bases
+20Creación de Relaciones entre Ítems
+21Cálculo del impacto en la modificación de un Ítem
+22Generación de Informes de Ítems y Fases
+
